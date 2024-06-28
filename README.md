@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on [FETU](https://github.com/evanyan13/fetu)<br>👨‍💻 All of my projects are available at [My Repo]([https://github.com/evanyan13](https://github.com/evanyan13?tab=repositories))<br>📫 How to reach me weidongy201@gmail.com
+🔭 I’m currently working on [FETU](https://github.com/evanyan13/fetu)<br>👨‍💻 All of my projects are available at [My Repo](https://github.com/evanyan13?tab=repositories)<br>📫 How to reach me weidongy201@gmail.com
 
 
 ## 🌐 Socials:
